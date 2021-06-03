@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons and grounds of his Majesties answere to the first proposition.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92221</idno><idno type="EEBO-CITATION">99864825</idno>
+  <idno type="VID">162487</idno>
+  <idno type="EEBO-PROQUEST">2240924210</idno>
+  
+            <idno type="STC">Wing R481</idno>
+            <idno type="STC">Thomason E475_33</idno>
+            <idno type="STC">ESTC R205448</idno>
+            <idno type="PROQUEST">99864825</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864825e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162487)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons and grounds of his Majesties answere to the first proposition.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 11th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="uniform_title">Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:162487:1"/>
+            <head>Reasons and Grounds of his Majesties <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nswere to the first Proposition.</head>
+            <head>The State of the Case is this;</head>
+            <p>THE Commissioners for the Parliament, by their Pa<g ref="char:EOLhyphen"/>per of the eighteenth of <hi>September,</hi> did desire, That his Majesty would give his Royall assent to this Pre<g ref="char:EOLhyphen"/>position.</p>
+            <q>That whereas both Houses of Parliament have beene neces<g ref="char:EOLhyphen"/>sitated to undertake a Warre, in their just and lawfull Defence; And that the Kingdome of England hath en<g ref="char:EOLhyphen"/>tred into a solemne League and Covenant to prosecute the same: An Act of Parliament may passe, whereby all Oathes, Declarations, &amp;c. against the Houses of Par<g ref="char:EOLhyphen"/>liament, or any for adhering to them, &amp;c. bee declared Null, suppressed and forbidden.</q>
+            <p>To this his Majesties answering, That he would consent to an Act, whereby all Oathes, &amp;c. bee declared Null, sup<g ref="char:EOLhyphen"/>pressed and forbidden; And not mentioning the Recitall; The Commissioners, by their Paper of the twentieth of <hi>September,</hi> doe desire his Majesty to Consent, that those words, <hi>Whereas both Houses of Parliament have beene ne<g ref="char:EOLhyphen"/>cessitated to undertake a Warre, in their just and lawfull De<g ref="char:EOLhyphen"/>fence; And that the Kingdome of England hath entred into a Solemne League and Covenant to prosecute the same;</hi> should bee a part of the Act of Parliament.</p>
+            <p>After which his Majesty by his Paper of the twenty fifth of
+<pb n="2" facs="tcp:162487:2"/>
+               <hi>September,</hi> in Answere to the said Proposition of the eight<g ref="char:EOLhyphen"/>teenth of <hi>September,</hi> did Consent thereunto as was desired.</p>
+            <list>
+               <head>In this Answere, <hi>4</hi> things are considerable:</head>
+               <item>1. <hi>Whether it can bee <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>rued an Affirmation or Assent of his Majesty to the Tr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of the Preamble or Recitall?</hi>
+               </item>
+               <item>2. <hi>Whether it can amount to any justification of the Par<g ref="char:EOLhyphen"/>liaments Cause <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Party?</hi>
+               </item>
+               <item>3. <hi>Whether <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Construed any condemnation of ac<g ref="char:EOLhyphen"/>knowledgement, or Guilt in his Majesty?</hi>
+               </item>
+               <item>4. <hi>Whether it can bee made use of as any Imputation of guilt to his Majesty himselfe.</hi>
+               </item>
+            </list>
+            <div type="part">
+               <head>As to the First;</head>
+               <p n="1">1 This cannot be construed an Assertion or Assent of his Majesty to the truth of the preamble, because the words being but a bare Recitall, and not a positive Sentence, are in construction the words of the two Houses onely, and not of his Majesty. And therfore if the proposition were drawn into an Act <hi>in terminis,</hi> as it is now proposed, &amp; his Majesty should assent unto that Act, his Consent cannot be extended any further than to the matter enacted, which is; <hi>That all Oaths, declarations, &amp;c. against the Houses, should hee voyd;</hi> And not to those words, <hi>Whereas the two Houses have beene necessitated &amp;c.</hi> Which words, though they are in<g ref="char:EOLhyphen"/>serted in the Act of Parliament (as prefaces, and conclusions are) yet are they no essentiall part of the matter enacted, nor the proper subject for the Kings consent.</p>
+               <p>For, as in Statutes heretofore made upon expresse Peti<g ref="char:EOLhyphen"/>tions, desiring that the King would grant or enact such a thing, &amp;c. the Petitionary part was alwaies construed the words of the Houses, and not of the King: So still every Bill presented to the King, doth either expresly or tacitly pray his Royall Assent to the enacting thereof. And when
+<pb n="3" facs="tcp:162487:2"/>the King giveth his Royall Assent, by the usuall words <hi>(Le Royle Veult)</hi> which are the proper words of Assent to a new-law (as this is) those words doe formally make it an Act, and are to bee construed no otherwise, but that the King willeth that to bee enacted, wherein the force and life of the Law consists, which is in the Body, and Substance of the Act, and not in the Title or Preamble, or in any Recitalls, Conveyances, Repetitions, or other circum<g ref="char:EOLhyphen"/>stances therein contained.</p>
+               <p n="2">2. The Commissioners desired not his Majesties perso<g ref="char:EOLhyphen"/>nall Assent to those Propositions as Truths; but his Royall Assent, That they should bee made Acts of Parliament. And the King consents to nothing by his Answere, but that his legislative power shall bee made use of to give the seve<g ref="char:EOLhyphen"/>rall Propositions, presented to him, the force of Lawes. This Desire appeares more particularly in this Proposition than in any of the rest; for that the Commissiners by their Paper of the 20. of <hi>September,</hi> desired that the <hi>Recitall in in this Proposition should bee part of the Act of Parliament:</hi> So that the Consent, which was desired to this Proposition, was not to the Truth of the Matter, or words contained therein: But that those Words or Matter, should be part of the Act of Parliament; and his Majestie Assents so farre to the Truth of them only, as the Act drawn according to the Proposition binds him, and no further.</p>
+               <p n="3">3. There is nothing in the Preamble which is a proper object for his Majesties Consent to worke upon, as to the Assertion of Truth: For, whether the two Houses of Parli<g ref="char:EOLhyphen"/>ament were necessitated to undertake the Warre, or not? Whether the same was Defensive or Offensive of their part? And whether the Defence were just or unjust? are in them<g ref="char:EOLhyphen"/>selves (especially since they are now past) proper Objects of Opinion and Judgement, and not of Consent or Agree<g ref="char:EOLhyphen"/>ment: And no man can bee thought to consent to the Truth of that, which he cannot possibly know; But whe<g ref="char:EOLhyphen"/>ther the Members of both Houses did really apprehend, or only pretend a necessitie, when they first vndertooke this Warre; And in what sense each of them tooke the Cove<g ref="char:EOLhyphen"/>nant
+<pb n="4" facs="tcp:162487:3"/>in relation thereunto, God and their owne Consci<g ref="char:EOLhyphen"/>ences only know: the Truth thereof falls not within the possibility of his Majesties knowledge; And therefore can<g ref="char:EOLhyphen"/>not reasonably bee inferred, That hee meant to Consent thereunto.</p>
+               <p n="4">4. When the publique-Faith, and Compact of Truth a<g ref="char:EOLhyphen"/>mongst men is once broken by an open Warre, nothing Spoken, Replied or Consented unto, on either side, during the hostility, can bee construed or made use of as an Affir<g ref="char:EOLhyphen"/>mation or Evidence of a Truth; For that the <hi>Medium</hi> and Rule of Truth is, by the Warre, taken away, and what<g ref="char:EOLhyphen"/>soever is Necessary, is therefore Just: But Hostilitie and Warre continue still betweene his Majesty and the Parlia<g ref="char:EOLhyphen"/>ments Party; There is neither Truce nor Peace yet conclu<g ref="char:EOLhyphen"/>ded: So that, if this Treaty end not happily, his Majesties Consent to this Proposition doth no more affirme the Ve<g ref="char:EOLhyphen"/>racitie of the Recitall, Nor no more use can be made of it, than of a Discourse passing from a Prisoner at Warre, or in a Leaguer between two Souldiers Enemies in their seve<g ref="char:EOLhyphen"/>rall Trenches.</p>
+               <p>As to the Second: His Majesties answere cannot a<g ref="char:EOLhyphen"/>mount to a Justification of the Parliaments Cause or Party; For, if the Recitall in the Preamble bee not true in it selfe; Or if the Cause and Proceedings bee not just in their owne Foundation; No Act of Parliament, much lesse a Recitall in a Preamble, can make them either True or Just. For, the power of Lawes and Statutes is executed <hi>in foro externo,</hi> only to regulate the outward Actions of men; they cannot operate <hi>in foro interno.</hi> No Acts of Parliament can make Evill Good, or Truth Falshood.</p>
+               <p>Again, Lawes ought to Command, and not to Reason or Dispute; And for that cause Preambles in ancient Statutes were not so frequent as now they are: But they are still unnecessary parts of Lawes; And though they bee first in Order, yet they are last in Frame, and inserted only to shew the Causes which induced the proposall of a new Law. They can Legally neither bee pleaded, as justification of any Act done; nor made use of, as concluding Evidences to
+<pb n="5" facs="tcp:162487:3"/>convince any man of a Crime. And it is frequent in com<g ref="char:EOLhyphen"/>mon experience, That Preambles and Recitalls in Statutes have not the force of Declaratory Lawes, against any par<g ref="char:EOLhyphen"/>ticular Subject, much lesse against the King: For the Mat<g ref="char:EOLhyphen"/>ter and Truth of a Preamble is traversable, and may be sub<g ref="char:EOLhyphen"/>jected to a new Tryall, either by Record, Jury or other<g ref="char:EOLhyphen"/>wise, as the Case shall require: This is therefore so farre from being a justification of the Parliaments Party, that it is rather an Argument of the weakenesse of their Cause; and that the Letter of the Law was formerly very strong against those Proceedings that shall now lay hold on so slender a Twig, as the Recitall in a Proposition, for their Justification.</p>
+               <p>As to the Third: His Majesties Answere cannot be con<g ref="char:EOLhyphen"/>strued any condemnation of his owne Party, or an acknow<g ref="char:EOLhyphen"/>ledgement of any Guilt in them; For that neither his Majesty, nor his party, are so much as mentioned, either in the Preamble or Proposition; And where there is no positive expression, no man ought to bee made criminous or guil<g ref="char:EOLhyphen"/>ty, especially in capitall Offences, by Inferences or Impli<g ref="char:EOLhyphen"/>cations. Treason can neither bee committed nor pardoned by Implication: A man must bee attainted of the open Fact by the Stat. 25. <hi>Ed.</hi> 3. And though it should bee admitted a positive justification of the Parliament, yet it followes not, that therefore it should bee a condemnation of the Kings Party; For that <hi>Bellum quoad bonam fidem gerentium,</hi> may bee <hi>utrinque justum.</hi> And if any that have adhered to the King bee indicted or proceeded against Criminally for that Cause; Hee may, notwithstanding this Answere, plead Not Guilty; and legally justifie his Actions by the Lawes now in force, which warrant and require his Duty therein. There is nothing in this Answere or Preamble, That doth Repeale or Change any former Law, or take from the Subject any Pleas, or Priviledges, or conclude him from a cleere Justification of his own Innocency.</p>
+               <p>Againe, His Majesty, after this proposition delivered to him, and before Answere, did declare; as also the two Houses after declared, <hi>That nothing in writing concerning any Pro<g ref="char:EOLhyphen"/>position,
+<pb n="6" facs="tcp:162487:4"/>should bee binding, prejudiciall; or any waies made use of, if the Treaty broke off upon any other Proposition.</hi> After which Declaration, his Majesty did deliver his Assent to this Proposition, but it was with respect had to his Ma<g ref="char:EOLhyphen"/>jesties Proposition (then intended, and shortly after delive<g ref="char:EOLhyphen"/>red) for an Act of Oblivion to extend unto all Persons, for all Matters relating to the unhappy differences: So that if the Treaty happily conclude, an Act of Oblivion must passe at the same time when the Act is passed upon this Proposi<g ref="char:EOLhyphen"/>tion, which will secure his Majesties Party, and take away the cause of Question, Whether the King or the two Hou<g ref="char:EOLhyphen"/>ses had the more lawfull Cause of Warre? And then the Preamble in this Act will remaine only as an Addition, or further degree of Security to them, and not as any impu<g ref="char:EOLhyphen"/>tation of Guilt upon his Majesties Party. But if this Treaty unhappily breake off, then his Majesties Consent to this Proposition (being relative, and in order only to the wholl Treaty) will bee of no effect to any intent or purpose whatsoever.</p>
+               <p>As to the Fourth; The King cannot contract any guilt upon his own Person by giving his Royall Assent to a Law; or to a Proposition to be made into a Law; for though his Majesties natural person cannot be severed from his politick, yet when be gives his royall assent to a Law; he Acts in his Politique Capacitie only: And therefore it may bee done by a Protector during the Minoritie of a King, And by Commissioners under his Great Seale, at any other time; and yet the words of the Assent are not said to bee the words of the Protector, or the Commissioners, but the words of the King in his Politique Capacitie, which is not capable of any Guilt or Imputation whatsoever.</p>
+               <p n="2">2. By the Law of England▪ the King can doe no wrong, nor incurre any Penalty: The Justices and Ministers are to bee punished, if the Lawes bee violated, and no reflection to bee made on the King. The very accession of the Crown purges all Attainders and Imputations whatsoever, though they bee laid by Act of Parliament, as was resolved in the Cases of <hi>H.</hi> 7. &amp; Q. <hi>Eliz.</hi> The King hath no Peere in the
+<pb n="7" facs="tcp:162487:4"/>land, and therefore cannot bee Judged, <hi>Potestatem ha<g ref="char:EOLhyphen"/>bet ut Delinquentes puniat &amp; coerceat, ipse vero fatis ha<g ref="char:EOLhyphen"/>bet quod Deum expectes ultorem.</hi>
+               </p>
+               <p n="3">3. And lastly, it hath beene ordinary, upon consultati<g ref="char:EOLhyphen"/>ons and Agreements for Peace, betweene Prince and Peo<g ref="char:EOLhyphen"/>ple, to insert Clauses of this nature into the Articles of the Treaty. As for Instance, In the Treaty of Lodun, <hi>Anno</hi> 1616. betweene the last French King and his Subjects; A<g ref="char:EOLhyphen"/>mongst the 54 Articles, one was; <hi>That the King should cause an Edict to bee published, wherein hee should ap<g ref="char:EOLhyphen"/>prove all Actions done by the contrary Party, and acknow<g ref="char:EOLhyphen"/>ledge them to have beene done for his Service.</hi>
+               </p>
+               <p>In the Treaty betweene <hi>Philip</hi> the third of Spaine, and Arch-Duke <hi>Albert,</hi> with the low-Country-men, 1607. They refused to Treate untill both the King and the Arch-Duke had declared under their Hands and Seales, <hi>That they came to Treate with them as free States, to which they made no Title or Pretension whatsoever. And whereas the King, in his Declaration, had named the Arch-Duke Prince of the low-Countries. They refused to proceede any further untill that Title was struck out and omitted;</hi> which was done accordingly. And amongst the fifty eight Articles of that Truce, concluded <hi>Anno</hi> 1609. That Decla<g ref="char:EOLhyphen"/>ration was the first.</p>
+               <p>In the late troubles in Naples, the Vice-Roy, upon a Treaty betwixt him and the Revolters, acknowledged all their Proceedings just. Many Precedents of like Na<g ref="char:EOLhyphen"/>ture occurre in Stories, especially in the Civill Warres of France, in the times of <hi>Charles</hi> the ninth, and <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the third.</p>
+               <p>But Clauses of this, or the like kinde, were in such Cases allwaies intended, only, for the securitie of the Subject, and never to bee imputed as any Guilt to the Prince.</p>
+               <pb n="8" facs="tcp:162487:5"/>
+               <p>
+                  <hi>Ʋpon these Reasons &amp; Grounds, His Majesty gave his Answere to this Proposition; And if any doubt remaine, or any ill use bee made there<g ref="char:EOLhyphen"/>of, to his Majesties disadvantage, Hee may, if the Treaty breake off, by his publique Declaration, cleere his Intentions therein.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
